@@ -1,18 +1,11 @@
-## Getting Started
+## Number Guessing Game in Java (Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains the source code for a classic Number Guessing Game developed in Java using Swing. The game generates a random number between 1 and 100, and players attempt to guess the number within a limited number of tries.
 
-## Folder Structure
+Features:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+User-friendly interface with clear instructions and feedback messages
+Visually appealing background with gradient color
+Attempts counter displaying remaining tries
+Input validation to ensure valid number entries
+Functionality to restart the game and generate a new number
